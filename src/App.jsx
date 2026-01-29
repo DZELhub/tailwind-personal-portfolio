@@ -9,12 +9,14 @@ import Projects from "./sections/Projects";
 
 function App() {
   return (
-    <div className="border-blue-300 border-2 h-dvh w-dvw">
+    <div className="min-h-screen bg-(--color-bg-secondary)">
       <Navbar />
-      <Hero />
-      <Projects />
-      <Blog />
-      <Contact />
+      <main className="pt-16 pb-14 max-w-6xl mx-auto px-4 min-h-screen">
+        <Hero />
+        <Projects />
+        <Blog />
+        <Contact />
+      </main>
       <Footer />
     </div>
   );
