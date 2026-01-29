@@ -9,7 +9,7 @@ import Projects from "./sections/Projects";
 
 function App() {
   return (
-    <div>
+    <div className="border-blue-300 border-2 h-dvh w-dvw">
       <Navbar />
       <Hero />
       <Projects />
