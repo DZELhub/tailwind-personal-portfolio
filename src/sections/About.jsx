@@ -8,17 +8,18 @@ const About = () => {
           About Me
         </h2>
         <p className="text-base md:text-lg lg:text-xl max-w-xl font-(family-name:--font-unica) text-(--color-text) mb-5 mx-auto md:mx-0">
-          I’m a frontend developer focused on building clean, responsive, and
-          user-centered interfaces. I enjoy turning complex ideas into simple,
-          intuitive digital experiences.
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Commodi
+          reprehenderit facilis dolorum dolor, totam ad repellendus rem enim
+          possimus laboriosam?
         </p>
         <p className="text-base md:text-lg lg:text-xl max-w-xl font-(family-name:--font-unica) text-(--color-text) mb-5 mx-auto md:mx-0">
-          I mainly work with modern frontend technologies and care deeply about
-          component structure, reusability, and accessibility.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit
+          corporis quas fugiat magnam? Ea aspernatur ratione perspiciatis
+          sapiente dolorem quidem.
         </p>
         <p className="text-base md:text-lg lg:text-xl max-w-xl font-(family-name:--font-unica) text-(--color-text) mb-5 mx-auto md:mx-0">
-          I’m currently improving my React skills by building real-world
-          projects and continuously refining my UI/UX thinking.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum iste
+          doloribus laboriosam eum facilis ipsa.
         </p>
       </div>
       <div className="text-center ">

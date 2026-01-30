@@ -14,7 +14,7 @@ const Navbar = () => {
           className="h-8 w-8 md:h-10 md:w-10 rounded-full"
         />
         <h1 className="font-(family-name:--font-anton) text-xl md:text-3xl tracking-widest text-white">
-          D.Z.E.L.
+          LOGO
         </h1>
       </div>
       <nav className="hidden md:flex items-center gap-10 text-white font-bold cursor-pointer font-(family-name:--font-unica)">
@@ -26,9 +26,6 @@ const Navbar = () => {
         </a>
         <a href="" className="transition-colors hover:text-(--color-accent)">
           PROJECTS
-        </a>
-        <a href="" className="transition-colors hover:text-(--color-accent)">
-          CONTACT
         </a>
       </nav>
       <button
